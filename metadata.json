@@ -1,0 +1,6 @@
+{
+  "name": "JEV Prompt Injection Risk Guardian",
+  "description": "Inspect and score suspected prompt injection attacks with JEV risk assessment and quarantine reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
