@@ -12,6 +12,7 @@
 ## 📸 スクリーンショット
 
 ![JEV Prompt Guardian Dashboard](./jev_prompt_guardian.png)
+例文提供（写真右側）[![GTIG Blog](https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai?hl=en)]
 
 ---
 
